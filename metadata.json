@@ -1,0 +1,6 @@
+{
+  "name": "Drobon AI/ML Brain",
+  "description": "An interactive platform where you can build and train your own customized AI brain by teaching it facts, setting behavior rules, and defining conversation dialogue examples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
